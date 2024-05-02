@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+
+    height: 70px;
+    width: 150px;
+
+}
+
+.testFont1{
+
+    font-family: "Raleway", sans-serif;
+
+}
+
+/* 
+.navbar{
+
+    display: flex;
+    gap: 2rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+
+/* }  */
